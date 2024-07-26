@@ -11,15 +11,15 @@
 
 - 💬 Ask me about **React,Html,CSS**
 
-- 📫 How to reach me **shubhangiiibatra@gmail.com**
+- 📫 How to reach me **shubhangiibatra@gmail.com**
 
 - ⚡ Fun fact **I am a lazy coder**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/shubhangibatra1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shubhangibatra1" height="30" width="40" /></a>
-<a href="https://instagram.com/shubhangiiibatra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shubhangiiibatra" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/shubhangiiibatra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shubhangiiibatra" height="30" width="40" /></a>
+<a href="https://instagram.com/shubhangiibatra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shubhangiiibatra" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/shubhangibatra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shubhangiiibatra" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/shubhangibatra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="shubhangibatra" height="30" width="40" /></a>
 </p>
 
